@@ -1,0 +1,47 @@
+.title {
+  color: white;
+}
+.col-md-,
+.col-lg-4 {
+  margin-bottom: 20px;
+}
+.sty {
+  font-size: 18px !important;
+  color: black !important;
+}
+
+.uk-border-circle {
+  width: 100px !important;
+  height: 100px !important;
+}
+.fa-shopping-cart {
+  color: white;
+  font-size: 50px;
+  cursor: pointer;
+  padding-left: 20px;
+}
+img {
+  height: 200px;
+  width: 300px;
+}
+.card-title,
+.card-text {
+  color: #20c997;
+}
+h1 {
+  text-align: center;
+}
+
+.fa-heart {
+  cursor: pointer;
+}
+footer {
+  background-color: #20c997;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  color: white;
+
+  width: 100%;
+}
